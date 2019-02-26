@@ -1,0 +1,32 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.bg{
+    background-image:url(img/book.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.form-group{
+    margin-top: 100px !important;
+    margin: 0 auto;
+    max-width: 300px;
+    text-align: center;
+}
+.search-button{
+    margin: 0 auto;
+    max-width: 50px;
+}
+#result{
+    max-width: 200px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.title, .author, .bookname{
+    color: white;
+}
+
+.bookname{
+    font-size: 20px;
+}
